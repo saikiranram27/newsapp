@@ -4,6 +4,7 @@
   "description": "",
   "main": "newapp.js",
   "scripts": {
+    "start": "npm install && node newapp.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sai kiran",
